@@ -39,10 +39,10 @@
  
 <summary><h2>-- Stats :) -- </h2></summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashuutosh1&show_icons=true&locale=en&layout=compact" alt="ashuutosh1" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=ankushKun&theme=gruvbox&no-bg=false&no-frame=true&column=7&rank=SSS,SS,S,AAA,AA,A" alt="ankushKun trophies">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&theme=gruvbox&count_private=true&layout=compact&hide_border=true&langs_count=10&hide=shaderlab,hlsl,glsl,jupyter%20notebook,c%23" height="220px">
-<img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" height="175px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=gruvbox" height="175px">
+<img src="https://github-profile-trophy.vercel.app/?username=ashuutosh1&theme=gruvbox&no-bg=false&no-frame=true&column=7&rank=SSS,SS,S,AAA,AA,A" alt="ashuutosh1- trophies">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuutosh1&show_icons=true&theme=gruvbox&count_private=true&layout=compact&hide_border=true&langs_count=10&hide=shaderlab,hlsl,glsl,jupyter%20notebook,c%23" height="220px">
+<img src="https://github-readme-stats.vercel.app/api?username=ashuutosh1&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" height="175px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuutosh1&show_icons=true&hide_border=true&theme=gruvbox" height="175px">
 
 </details>
 </div>
