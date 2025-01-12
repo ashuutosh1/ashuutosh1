@@ -13,12 +13,14 @@
 <img src="https://img.shields.io/badge/-C language-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Dart-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-HTML 5-grey?style=for-the-badge">
+<br>
 <img src="https://img.shields.io/badge/-CSS-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Javascript-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Flutter-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Tailwind CSS-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-React-grey?style=for-the-badge" >
 <img src="https://img.shields.io/badge/-Firebase-grey?style=for-the-badge" >
+<br>
 <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
