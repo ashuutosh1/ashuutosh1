@@ -17,23 +17,29 @@
  
 <summary><h2 align="center" > -- Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"> --</h2></summary>
 <h4>Languages/Frameworks/Tools</h4>
-<img src="https://img.shields.io/badge/-CPP-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Python-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-C language-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Dart-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-HTML 5-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/-C++ (CPP)-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/-C language-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/-TypeScript-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Dart-blueviolet?style=for-the-badge">
+
 <br>
-<img src="https://img.shields.io/badge/-CSS-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Javascript-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Flutter-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Tailwind CSS-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-React-grey?style=for-the-badge" >
-<img src="https://img.shields.io/badge/-Firebase-grey?style=for-the-badge" >
+<img src="https://img.shields.io/badge/-HTML 5-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Tailwind CSS-teal?style=for-the-badge">
+<img src="https://img.shields.io/badge/-React-deepskyblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Flutter-skyblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge">
 <br>
-<img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-vercel-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/-git-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/-github-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/-vs code-007acc?style=for-the-badge">
+<img src="https://img.shields.io/badge/-vercel-black?style=for-the-badge">
+
+<br>
+<img src="https://img.shields.io/badge/-React Native-teal?style=for-the-badge">
+<img src="https://img.shields.io/badge/-MongoDb-deepskyblue?style=for-the-badge">
 
 
 </details>
